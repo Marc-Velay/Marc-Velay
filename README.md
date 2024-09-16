@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hello there 👋
 
-Welcome to my GitHub profile! I'm a Research Engineer in AI in Paris. I focus on innovative research in AI technologies, especially around Reinforcement Learning 🤖.
+Welcome to my GitHub profile! I'm a Research Engineer in AI from Paris. I focus on innovative research in AI technologies, especially around Reinforcement Learning 🤖.
 
 ### 🔭 Current Work
 I specialize in:
