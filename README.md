@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Marc-Velay/Marc-Velay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello there 👋
+
+Welcome to my GitHub profile! I'm a Research Engineer in AI in Paris. I focus on innovative research in AI technologies, especially around Reinforcement Learning 🤖.
+
+### 🔭 Current Work
+I specialize in:
+- **Deep Learning**
+- **Reinforcement Learning**
+- **Time Series Analysis and Forecasting**
+- **Cyber Security**
+
+### 🌱 Ongoing Interests
+I’m passionate about exploring new technologies, sharing my knowledge through blog posts and tutorials on [Medium](https://medium.com/@marc-velay), and contributing to [advancements in AI](https://scholar.google.com/citations?user=FKdlVUQAAAAJ).
+
+### 👯 Looking to Collaborate On
+I'm always open to collaboration in the following areas:
+- AI and machine learning research
+- Deep Learning frameworks
+- Communication projects
+
+### 📫 How to Reach Me
+Feel free to reach out to me through:
+- **LinkedIn**: [Marc Velay](https://www.linkedin.com/in/marc-velay/)
+- **X**: [@marc_velay](https://x.com/marc_velay)
